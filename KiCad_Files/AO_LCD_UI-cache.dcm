@@ -1,0 +1,14 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP D_Zener_SOT23
+D Zener Diode, alternativ symbol
+K diode
+F https://en.wikipedia.org/wiki/Zener_diode
+$ENDCMP
+#
+$CMP FPC_40
+D Connector, single row, 01x40
+K connector
+$ENDCMP
+#
+#End Doc Library
