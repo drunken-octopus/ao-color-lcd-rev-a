@@ -1,0 +1,72 @@
+### Module positions - created on Thu Jun 14 11:10:35 2018 ###
+### Printed by Pcbnew version kicad 4.0.5+dfsg1-4
+## Unit = inches, Angle = deg.
+## Side : top
+# Ref     Val              Package                                    PosX       PosY       Rot  Side
+C1        100pF            C_0603_HandSoldering                     3.2480    -2.3425   90.0000  top
+C2        10uF             TantalC_SizeD_EIA-7343_HandSoldering     4.8622    -2.3130    0.0000  top
+C3        0.1uF            C_0603_HandSoldering                     4.1732    -2.7264  180.0000  top
+C4        0.1uF            C_0603_HandSoldering                     3.9961    -2.4016   90.0000  top
+C5        0.1uF            C_0603_HandSoldering                     4.2224    -2.5984  180.0000  top
+C6        33uF             TantalC_SizeD_EIA-7343_HandSoldering     3.6614    -3.7402    0.0000  top
+C7        220uF            TantalC_SizeD_EIA-7343_HandSoldering     3.6614    -3.9173    0.0000  top
+C8        0.0047uF         C_0603_HandSoldering                     4.7441    -3.6024  270.0000  top
+C9        0.1uF            C_0603_HandSoldering                     4.1732    -2.7854  180.0000  top
+C10       0.0047uF         C_0603_HandSoldering                     4.9213    -3.6024  270.0000  top
+C11       0.1uF            C_0603_HandSoldering                     4.1732    -2.6673  180.0000  top
+C12       0.0047uF         C_0603_HandSoldering                     5.0886    -3.6024  270.0000  top
+C13       0.22 uF          C_0603_HandSoldering                     5.1969    -3.4843  180.0000  top
+C14       1uF              C_0603_HandSoldering                     5.0197    -3.8681    0.0000  top
+C15       0.1uF            C_0603_HandSoldering                     6.5256    -2.5787  180.0000  top
+C16       0.1uF            C_0603_HandSoldering                     3.9272    -3.3858  180.0000  top
+C17       1 uF             C_0603_HandSoldering                     4.6063    -3.8976   90.0000  top
+C18       0.22uF           C_0603_HandSoldering                     6.9291    -2.5984    0.0000  top
+C19       0.1uF            C_0603_HandSoldering                     6.4764    -3.1398   90.0000  top
+C20       0.1uF            C_0603_HandSoldering                     7.5492    -2.9429   90.0000  top
+CP1       47 pF            CPAK8                                    5.3839    -2.4508    0.0000  top
+CP2       47 pF            CPAK8                                    5.3839    -2.7854    0.0000  top
+CP3       47 pF            CPAK8                                    5.3839    -3.1201    0.0000  top
+D1        BAT54            SOD-123                                  6.8406    -2.4016   90.0000  top
+D2        MMBZ5250BLT 20V  SOT-23                                   6.6929    -2.5886  180.0000  top
+G***      LOGO             LulzBot_Logo                             6.8110    -3.7008    0.0000  top
+L1        22uH             Inductor_Taiyo-Yuden_MD-3030             6.6929    -2.4114   90.0000  top
+P4        FPC_40           FPC_40                                   6.0925    -3.2874  180.0000  top
+P5        FPC_40           FPC_40                                   7.2146    -3.0906  180.0000  top
+R1        10k              R_0603_HandSoldering                     3.4843    -2.3425   90.0000  top
+R2        10k              R_0603_HandSoldering                     3.3661    -2.3425   90.0000  top
+R3        10k              R_0603_HandSoldering                     3.3268    -3.4843   90.0000  top
+R4        10k              R_0603_HandSoldering                     3.2480    -3.4843  270.0000  top
+R5        10k              R_0603_HandSoldering                     3.3071    -2.3425   90.0000  top
+R6        10k              R_0603_HandSoldering                     3.9173    -2.4016   90.0000  top
+R7        10k              R_0603_HandSoldering                     3.8386    -2.4016   90.0000  top
+R8        10k              R_0603_HandSoldering                     3.4843    -3.4843  270.0000  top
+R9        10k              R_0603_HandSoldering                     3.4252    -2.3425   90.0000  top
+R10       10k              R_0603_HandSoldering                     3.4055    -3.4843  270.0000  top
+R11       33               R_0603_HandSoldering                     4.1043    -3.0020  270.0000  top
+R12       33               R_0603_HandSoldering                     3.8976    -3.5335  180.0000  top
+R13       33               R_0603_HandSoldering                     4.1732    -3.0020  270.0000  top
+R14       33               R_0603_HandSoldering                     4.2421    -3.2382  270.0000  top
+R15       33               R_0603_HandSoldering                     4.1732    -3.2382  270.0000  top
+R16       33               R_0603_HandSoldering                     4.1043    -3.2382  270.0000  top
+R17       10k              R_0603_HandSoldering                     4.5374    -2.3031  270.0000  top
+R18       1k               R_0603_HandSoldering                     4.6949    -3.4843  180.0000  top
+R19       1k               R_0603_HandSoldering                     4.8720    -3.4843  180.0000  top
+R20       1k               R_0603_HandSoldering                     5.0394    -3.4843  180.0000  top
+R21       20k              R_0603_HandSoldering                     5.2362    -3.6024   90.0000  top
+R22       47k              R_0603_HandSoldering                     4.8228    -3.7598    0.0000  top
+R23       1k               R_0603_HandSoldering                     6.8110    -2.5984  270.0000  top
+R24       10               R_0603_HandSoldering                     7.6772    -2.9528   90.0000  top
+R25       10               R_0603_HandSoldering                     7.7559    -2.9528   90.0000  top
+R26       10k              R_0603_HandSoldering                     6.5551    -2.8150  180.0000  top
+R27       10k              R_0603_HandSoldering                     6.5551    -2.8937    0.0000  top
+R28       10k              R_0603_HandSoldering                     6.7815    -2.8150  180.0000  top
+R29       10k              R_0603_HandSoldering                     6.7815    -2.8937    0.0000  top
+RN1       33 Ohms          RPAK8                                    4.9606    -2.5591  270.0000  top
+RN2       33 Ohms          RPAK8                                    4.8917    -2.8740  270.0000  top
+RN3       33 Ohms          RPAK8                                    4.6850    -3.1890  270.0000  top
+U1        4050             SO-16-N                                  4.2717    -2.4016    0.0000  top
+U2        LM1117_3V3       TO-252-2Lead                             3.2677    -3.8189   90.0000  top
+U3        FT810            VQFN_48_7x7                              4.4882    -2.7559  270.0000  top
+U4        AP4991_MSOP      MSOP8                                    4.8228    -3.8583   90.0000  top
+U5        LT1937           SOT-23-5                                 6.5256    -2.4114  270.0000  top
+## End

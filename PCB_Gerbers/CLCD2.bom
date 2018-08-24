@@ -1,0 +1,71 @@
+REF.    DESC.                  VALUE                PART NUMBER     PKG.               DIGIKEY PART           NOTE
+
+C1      Capacitor, Ceramic     100 pF 50 V X7R                      SMT 0603           1276-1909-x-ND         Unless specified, DigiKey part numbers are for reference only.
+C2      Capacitor, Tanalum      10 uF 25 V                          SMT SMD 7343       399-3767-x-ND          Use parts on hand if they meet the same specs.
+C3      Capacitor, Ceramic     0.1 uF 50 V X7R                      SMT 0603           399-7845-x-ND
+C4      Capacitor, Ceramic     0.1 uF 50 V X7R                      SMT 0603           399-7845-x-ND
+C5      Capacitor, Ceramic     0.1 uF 50 V X7R                      SMT 0603           399-7845-x-ND
+C6      Capacitor, Tantalum     33 uF 25 V                          SMT SMD 7343       399-8382-x-ND
+C7      Capacitor, Tantalum    220 uF 16 V                          SMT SMD 7343       399-10429-x-ND
+C8      Capacitor, Ceramic    4700 pF 50 V X7R                      SMT 0603           490-1506-x-ND
+C9      Capacitor, Ceramic     0.1 uF 50 V X7R                      SMT 0603           399-7845-x-ND
+C10     Capacitor, Ceramic    4700 pF 50 V X7R                      SMT 0603           490-1506-x-ND
+C11     Capacitor, Ceramic     0.1 uF 50 V X7R                      SMT 0603           399-7845-x-ND
+C12     Capacitor, Ceramic    4700 pF 50 V X7R                      SMT 0603           490-1506-x-ND
+C13     Capacitor, Ceramic    0.22 uF 50 V X7R                      SMT 0603           445-7408-x-ND
+C14     Capacitor, Ceramic     1.0 uF 25 V X7R                      SMT 0603           445-12548-x-ND
+C15     Capacitor, Ceramic     0.1 uF 50 V X7R                      SMT 0603           399-7845-x-ND
+C16     Capacitor, Ceramic     0.1 uF 25 V X7R                      SMT 0603           399-7845-x-ND
+C17     Capacitor, Ceramic     1.0 uF 25 V X7R                      SMT 0603           445-12548-x-ND
+C18     Capacitor, Ceramic    0.22 uF 50 V X7R                      SMT 0603           445-7408-x-ND
+C19     Capacitor, Ceramic     0.1 uF 50 V X7R                      SMT 0603           399-7845-x-ND
+C20     Capacitor, Ceramic     0.1 uF 50 V X7R                      SMT 0603           399-7845-x-ND
+CP1     Capacitor Pak           47 pF               EZA-NPE470M     Custom             PCN1001CT-ND           Use this part.
+CP2     Capacitor Pak           47 pF               EZA-NPE470M     Custom             PCN1001CT-ND           Use this part.
+CP3     Capacitor Pak           47 pF               EZA-NPE470M     Custom             PCN1001CT-ND           Use this part.
+D1      Diode, Schottky         40 V 300 mA         BAT54FILM       SOD-123            497-5562-x-ND
+D2      Diode, Zener, 20V       20 V 225 MW         MMBZ5250BLT1G   SOT-23-3           MMBZ5250BLT1GOSxx-ND
+L1      Inductor                22 uH 860 mA        LQH3NPZ220MMEL  Custom             490-15972-1-ND         Use this part.
+LS1     Speaker                 80 OHM              CVS-1508        Custom             102-2498-ND            Use this part.
+P1      Connector, Header       10-Pin              302-S101        Through Hole       ED1543-ND
+P2      Connector, Header       10-Pin              302-S101        Through Hole       ED1543-ND
+P3      Connector, Header       10-Pin              302-S101        Through Hole       ED1543-ND
+P4      Connector, Flat Flex    FPC-40              0541044031      Custom             WM3431xx-ND
+P4      Connector, Flat Flex    FPC-40              0541044031      Custom             WM3431xx-ND
+R1      Resistor, 1%            10k                                 SMT 0603           311-10.0KHRxx-ND
+R2      Resistor, 1%            10k                                 SMT 0603           311-10.0KHRxx-ND
+R3      Resistor, 1%            10k                                 SMT 0603           311-10.0KHRxx-ND
+R4      Resistor, 1%            10k                                 SMT 0603           311-10.0KHRxx-ND
+R5      Resistor, 1%            10k                                 SMT 0603           311-10.0KHRxx-ND
+R6      Resistor, 1%            10k                                 SMT 0603           311-10.0KHRxx-ND
+R7      Resistor, 1%            10k                                 SMT 0603           311-10.0KHRxx-ND
+R8      Resistor, 1%            10k                                 SMT 0603           311-10.0KHRxx-ND
+R9      Resistor, 1%            10k                                 SMT 0603           311-10.0KHRxx-ND
+R10     Resistor, 1%            10k                                 SMT 0603           311-10.0KHRxx-ND
+R11     Resistor, 1%            33 Ohm                              SMT 0603           311-33.0HRxx-ND
+R12     Resistor, 1%            33 Ohm                              SMT 0603           311-33.0HRxx-ND
+R13     Resistor, 1%            33 Ohm                              SMT 0603           311-33.0HRxx-ND
+R14     Resistor, 1%            33 Ohm                              SMT 0603           311-33.0HRxx-ND
+R15     Resistor, 1%            33 Ohm                              SMT 0603           311-33.0HRxx-ND
+R16     Resistor, 1%            33 Ohm                              SMT 0603           311-33.0HRxx-ND
+R17     Resistor, 1%            10k                                 SMT 0603           311-10.0KHRxx-ND
+R18     Resistor, 1%            1k                                  SMT 0603           311-1.00KHRxx-ND
+R19     Resistor, 1%            1k                                  SMT 0603           311-1.00KHRxx-ND
+R20     Resistor, 1%            1k                                  SMT 0603           311-1.00KHRxx-ND
+R21     Resistor, 1%            20k                                 SMT 0603           311-20.0KHRxx-ND
+R22     Resistor, 1%            47k                                 SMT 0603           311-47.0KHRxx-ND
+R23     Resistor, 1%            1k                                  SMT 0603           311-1.00KHRxx-ND
+R24     Resistor, 1%            10 Ohm                              SMT 0603           311-10.0HRxx-ND
+R25     Resistor, 1%            10 Ohm                              SMT 0603           311-10.0HRxx-ND
+R26     Resistor, 1%            10k                                 SMT 0603           311-10.0KHRxx-ND
+R27     Not Loaded
+R28     Resistor, 1%            10k                                 SMT 0603           311-10.0KHRxx-ND
+R29     Not Loaded
+RN1     Resistor Network        33 Ohm             EXB-2HV330JV     Custom             Y1330xx-ND             Use this part.
+RN2     Resistor Network        33 Ohm             EXB-2HV330JV     Custom             Y1330xx-ND             Use this part.
+RN3     Resistor Network        33 Ohm             EXB-2HV330JV     Custom             Y1330xx-ND             Use this part.
+U1      IC, Non-Inv Buffer                         CD74HC4050       16-SOIC            296-14529-x-ND
+U2      IC, Voltage Reg.        3.3 V              LM1117DTX-3.3    TO252-3            LM1117DTX-3.3/NOPBxx-ND
+U3      IC, Graphic Ctrl.                          FT810Q-T         VQFN-48-7x7        768-1257-ND
+U4      IC, Audio Amp.                             IS31AP4991A-SLS2 8-MSOP             706-1429-x-ND
+U5      IC, LED Driver                             LT1937ES5        SOT23-5            LT1937ES5#TRMPBFxx-ND
